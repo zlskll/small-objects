@@ -1,0 +1,15 @@
+﻿  game.cpp
+D:\所有代码\小项目\三子棋\三子棋\game.h(18,7): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\所有代码\小项目\三子棋\三子棋\game.h(18,1): error C2374: “和”: 重定义；多次初始化
+D:\所有代码\小项目\三子棋\三子棋\game.h(17): message : 参见“和”的声明
+D:\所有代码\小项目\三子棋\三子棋\game.h(19,8): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\所有代码\小项目\三子棋\三子棋\game.h(19,1): error C2365: “printf”: 重定义；以前的定义是“函数”
+D:\Windows Kits\10\Include\10.0.19041.0\ucrt\stdio.h(950): message : 参见“printf”的声明
+  三子棋源.cpp
+D:\所有代码\小项目\三子棋\三子棋\game.h(18,7): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\所有代码\小项目\三子棋\三子棋\game.h(18,1): error C2374: “和”: 重定义；多次初始化
+D:\所有代码\小项目\三子棋\三子棋\game.h(17): message : 参见“和”的声明
+D:\所有代码\小项目\三子棋\三子棋\game.h(19,8): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\所有代码\小项目\三子棋\三子棋\game.h(19,1): error C2365: “printf”: 重定义；以前的定义是“函数”
+D:\Windows Kits\10\Include\10.0.19041.0\ucrt\stdio.h(950): message : 参见“printf”的声明
+  正在生成代码...
